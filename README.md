@@ -12,9 +12,11 @@ The information about these boxes and the destinations can be found in two text 
 
 a) Destinations file (Ciudades.txt), which contains a list of destinations (cities) with the distances
 from the plant. The file format is:
+
                                                 destination kilometers
 b) Boxes file (Cajas.txt), representing the list of produced boxes. These boxes are stored in the
 storage units in columns1. The file format is:
+
                                                  boxID storeUnitID destination 
 The boxes file represents the sequence of boxes that a series of workers should organize over the surface
 of a warehouse in a binary tree‐like accommodation. The procedure is as follows:
