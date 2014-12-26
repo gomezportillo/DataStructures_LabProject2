@@ -17,8 +17,8 @@ public class Principal {
 
 	public static void main(String[] args){ 
 		try{
-			FileReader fileReaderCities = new FileReader(new File ("Ciudades.txt"));
-			FileReader fileReaderBoxes = new FileReader (new File("Cajas.txt"));
+			FileReader fileReaderCities = new FileReader(new File ("files/Ciudades.txt"));
+			FileReader fileReaderBoxes = new FileReader (new File("files/Cajas.txt"));
 			
 			Warehouse warehouse = new Warehouse(fileReaderCities, fileReaderBoxes);
 			warehouse.buildBinarySearchTree();
