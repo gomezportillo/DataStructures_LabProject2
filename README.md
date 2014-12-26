@@ -1,5 +1,6 @@
-ENERGY DRINKS PRODUCTION PLANT
 
+                                                ENERGY DRINKS PRODUCTION PLANT
+                                                
 Phase of organization of boxes for distribution
 
 Problem description
