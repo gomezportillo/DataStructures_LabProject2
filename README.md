@@ -36,7 +36,7 @@ determined by the storage unit ID (A, B, C…) –as noted below, this will be i
 4. This tree provides a physical organization that will allow the trucks loading the boxes to distribute
 them easily according to the destinations and routes assigned.
 
-Goal and requirements
+                                                Goal and requirements
 
 The goal of the project is to build a Java program that simulates the behavior of the previously described
 operation and using a binary tree, represents the placement of the boxes in the warehouse. To do this, the
