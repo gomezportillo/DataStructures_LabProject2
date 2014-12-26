@@ -1,0 +1,11 @@
+Paris 250
+Berlin 300
+Roma 210
+Lisboa 180
+Bruselas 230
+Moscu 400
+Oporto 160
+Praga 350
+Amberes 425
+Venecia 220
+Zurich 260
