@@ -38,17 +38,26 @@ Goal and requirements
 The goal of the project is to build a Java program that simulates the behavior of the previously described
 operation and using a binary tree, represents the placement of the boxes in the warehouse. To do this, the
 program must:
+
  Process the cities (destinations) file, using a list to store them and to search distances.
+
  Process the boxes file and represent the described arrangement through a binary tree.
+
  Each pile of boxes, stored in a child of the tree, can have several boxes, being represented by a list.
+
  Finally, the program should print:
+
 i. The binary tree in text format.
+
 ii. Using the binary tree structure and contents:
- The information of the box whose destination is the nearest city.  
+
+ The information of the box whose destination is the nearest city.
+
  The information of the box whose destination is the farthest city.
+
 If there are several boxes that fulfill this condition, only the box with the smallest value of
 the storage Unit ID should be printed (note in the figure above how the boxes are stored in
 the tree nodes)
+
  The program must be as general as possible; it should process files with a different number of
 elements. The files provided are an example to test the program.
-The distribution of the boxes by the trucks to the destinations is outside the sc
